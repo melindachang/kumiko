@@ -1,0 +1,18 @@
+# NPM/Yarn
+node_modules/
+package-lock.json
+yarn-error.log
+
+# Tests
+*.html
+
+# Build source
+dist/
+
+# Editor Config
+.idea/
+.DS_Store
+
+# Misc
+scratch.md
+.*/

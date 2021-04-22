@@ -1,0 +1,42 @@
+{
+  "name": "kumiko",
+  "version": "0.0.1",
+  "description": "Beautiful no-class CSS library",
+  "browser": "dist/kumiko.min.css",
+  "scripts": {
+    "dev": "sh scripts/dev.sh",
+    "build": "sh scripts/build.sh",
+    "cleanup": "prettier --write src --parser scss",
+    "release": "sh scripts/release.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melindachang/kumiko.git"
+  },
+  "keywords": [
+    "kumiko",
+    "kumiko.css",
+    "tiny",
+    "css",
+    "library",
+    "web",
+    "ui",
+    "browser"
+  ],
+  "author": "Melinda Chang <melindachang.hy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melindachang/kumiko/issues"
+  },
+  "homepage": "https://github.com/melindachang/kumiko",
+  "engines": {
+    "node": ">=6.4.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.0.0-beta.2",
+    "del-cli": "^3.0.1",
+    "parcel": "^2.0.0-beta.2",
+    "prettier": "^2.1.2",
+    "sass": "^1.32.11"
+  }
+}
