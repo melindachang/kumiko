@@ -25,7 +25,7 @@ Below is a sample for a Kumiko starter:
 
 ```html
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <link rel="stylesheet" href="./dist/kumiko.min.css" />
   </head>
