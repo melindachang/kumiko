@@ -1,7 +1,8 @@
 ## TODO
 
-Including modifers: `disabled`, `hover`, `active`, `focus`
+Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 
+**Core Features:**
 - [ ] Text styling (e.g. `h1-h6`, `p`)
 - [ ] Link styling
 - [ ] Break styling (e.g. `hr`, `br`)
@@ -13,3 +14,8 @@ Including modifers: `disabled`, `hover`, `active`, `focus`
 - [ ] Input styling (e.g. types `text`, `radio`, `checkbox`, etc)
 - [ ] Textarea styling
 - [ ] Table styling
+
+**Custom Features:**
+- [ ] Navbar styling
+- [ ] Header styling
+- [ ] Banner styling
