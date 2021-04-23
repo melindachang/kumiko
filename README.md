@@ -1,4 +1,4 @@
-# 🌺 Kumiko
+# <img src="https://raw.githubusercontent.com/melindachang/kumiko/master/.github/img/logo.svg" height="60" alt="Kumiko Logo" />
 
 ### Beautiful no-class CSS library.
 
@@ -6,7 +6,7 @@ Writing CSS is annoying, especially when you want to build something _fast_. Tai
 
 ![Code Size](https://badgen.net/badgesize/brotli/https/unpkg.com/kumiko?color=F495BF&labelColor=1D1E32&style=flat-square&label=size) ![NPM Version](https://img.shields.io/npm/v/kumiko?color=F495BF&labelColor=1D1E32&style=flat-square) ![License](https://badgen.net/github/license/melindachang/kumiko?color=F495BF&labelColor=1D1E32&style=flat-square)
 
-> _Psst... Looking for a small `3kb` JavaScript library to pair with Kumiko? [Check out Lucia](https://github.com/aidenybai/lucia)!_
+> _Psst... Looking to pair Kumiko with `3kb` JavaScript library [**→ Check out Lucia**](https://github.com/aidenybai/lucia)!_
 
 [**→ Check out the Kumiko website**](https://kumiko.netlify.app/)
 
@@ -32,7 +32,7 @@ Have a question about Kumiko? Post it on the [GitHub Discussions](https://github
 
 Find a bug? Head over to our [issue tracker](https://github.com/melindachang/kumiko/issues) and we'll do our best to help. We love pull requests, too!
 
-We expect all Kumiko contributors to abide by the terms of our [Code of Conduct](CODE_OF_CONDUCT.md).
+We expect all Kumiko contributors to abide by the terms of our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 ## Acknowledgments
 
