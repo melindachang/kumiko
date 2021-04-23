@@ -1,10 +1,12 @@
+> Note: This library is still in heavy development, and is not ready for real use.
+
 # <img src="https://raw.githubusercontent.com/melindachang/kumiko/master/.github/assets/logo.svg" height="60" alt="Kumiko Logo" />
 
 ### Beautiful no-class CSS library.
 
 Writing CSS is annoying, especially when you want to build something _fast_. Tailwind tries to solve this by giving you classes, but we want to take it further. Kumiko aims to provide you prebuilt styles and a bit of custom elements, so you don't have to write CSS.
 
-![Code Size](https://badgen.net/badgesize/brotli/https/unpkg.com/kumiko?color=F495BF&labelColor=1D1E32&style=flat-square&label=size) ![NPM Version](https://img.shields.io/npm/v/kumiko?color=F495BF&labelColor=1D1E32&style=flat-square) ![License](https://badgen.net/github/license/melindachang/kumiko?color=F495BF&labelColor=1D1E32&style=flat-square)
+![Code Size](https://badgen.net/badgesize/brotli/https/unpkg.com/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square&label=size) ![NPM Version](https://img.shields.io/npm/v/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square) ![License](https://badgen.net/github/license/melindachang/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square)
 
 > _Psst... Looking to pair Kumiko with `3kb` JavaScript library? [**→ Check out Lucia**](https://github.com/aidenybai/lucia)!_
 
