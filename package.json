@@ -1,6 +1,6 @@
 {
   "name": "kumiko",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Beautiful no-class CSS library",
   "browser": "dist/kumiko.min.css",
   "scripts": {
