@@ -2,12 +2,12 @@
   --background-body: #fff;
   --background: #efefef;
   --background-alt: #f7f7f7;
-  --selection: #9e9e9e;
-  --text-main: #363636;
+  --selection: #EE3F86;
+  --text-main: #6B7280;
   --text-bright: #000;
   --text-muted: #70777f;
-  --links: #0076d1;
-  --focus: #0096bfab;
+  --links: #EE3F86;
+  --focus: #EE3F86;
   --border: #dbdbdb;
   --code: #000;
   --animation-duration: 0.1s;
@@ -18,5 +18,4 @@
   --form-text: #000;
   --variable: #39a33c;
   --highlight: #ff0;
-  --select-arrow: svg-load('./assets/select-arrow.svg', fill: #161f27);
 }
