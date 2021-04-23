@@ -1,3 +1,7 @@
-body {
-  color: #000;
-}
+@import 'variables.scss';
+@import 'parts/_base.scss';
+@import 'parts/_typography.scss';
+@import 'parts/_code.scss';
+@import 'parts/_forms.scss';
+@import 'parts/_links.scss';
+@import 'parts/_misc.scss';
