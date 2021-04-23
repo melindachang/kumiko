@@ -17,7 +17,7 @@ Writing CSS is annoying, especially when you want to build something _fast_. Tai
 Kumiko doesn't require build tools by default, feel free to just drop it in the head of your webpage.
 
 ```html
-<link type="text/css" href="https://unpkg.com/kumiko">
+<link type="text/css" href="https://unpkg.com/kumiko" />
 ```
 
 It also integrates well with module bundlers like [Webpack](https://webpack.js.org/) or [Parcel](https://parceljs.org/).
