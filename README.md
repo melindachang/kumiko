@@ -34,7 +34,9 @@ Have a question about Kumiko? Post it on the [GitHub Discussions](https://github
 
 Find a bug? Head over to our [issue tracker](https://github.com/melindachang/kumiko/issues) and we'll do our best to help. We love pull requests, too!
 
-We expect all Kumiko contributors to abide by the terms of our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+We expect all Kumiko contributors to abide by the terms of our [Code of Conduct](https://github.com/melindachang/kumiko/blob/master/.github/CODE_OF_CONDUCT.md).
+
+[**→ Start contributing on GitHub**](https://github.com/melindachang/kumiko/blob/master/.github/CONTRIBUTING.md)
 
 ## Acknowledgments
 
