@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/melindachang/kumiko/master/.github/img/logo.svg" height="60" alt="Kumiko Logo" />
+# <img src="https://raw.githubusercontent.com/melindachang/kumiko/master/.github/assets/logo.svg" height="60" alt="Kumiko Logo" />
 
 ### Beautiful no-class CSS library.
 
