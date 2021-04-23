@@ -29,4 +29,5 @@ scripts/
 docs/
 .sassrc
 scratch.md
-.*/
+./
+web/

@@ -1,9 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
+@import 'variables.scss';
+@import 'parts/_base.scss';
+@import 'parts/_typography.scss';
+@import 'parts/_code.scss';
+@import 'parts/_forms.scss';
+@import 'parts/_links.scss';
+@import 'parts/_misc.scss';
+
 :root {
   --font-family: "Inter", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica,
     Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-
 }
 
 * {
