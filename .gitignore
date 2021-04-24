@@ -4,8 +4,8 @@ package-lock.json
 yarn-error.log
 
 # Tests
-test*.html
-index.html
+/*.html
+/index.html
 
 # Build source
 dist/
