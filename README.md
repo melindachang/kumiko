@@ -10,7 +10,7 @@ Writing CSS is annoying, especially when you want to build something _fast_. Tai
 
 > _👀 Psst... Need interactivity / JavaScript behavior? [**→ Check out Lucia**](https://github.com/aidenybai/lucia)!_
 
-[**→ Check out the Kumiko website**](https://kumiko.netlify.app/)
+[**→ Check out the Kumiko website**](https://kumikocss.netlify.app/)
 
 ## Installing Kumiko
 
@@ -24,11 +24,11 @@ It also integrates well with module bundlers like [Webpack](https://webpack.js.o
 
 ## Documentation
 
-[**→ Check out the Kumiko docs**](https://kumiko.netlify.app/docs)
+[**→ Check out the Kumiko docs**](https://kumikocss.netlify.app/docs)
 
 ## Resources & Contributing Back
 
-Looking for the docs? Check the [Kumiko website](https://kumiko.netlify.app/) out.
+Looking for the docs? Check the [Kumiko website](https://kumikocss.netlify.app/) out.
 
 Have a question about Kumiko? Post it on the [GitHub Discussions](https://github.com/melindachang/kumiko/discussions) and ask the community for help.
 
