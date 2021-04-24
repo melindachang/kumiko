@@ -5,6 +5,7 @@ yarn-error.log
 
 # Tests
 test*.html
+index.html
 
 # Build source
 dist/

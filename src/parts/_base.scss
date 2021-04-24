@@ -1,24 +1,20 @@
-html {
-  scrollbar-color: var(--scrollbar-thumb) var(--background-body);
-  scrollbar-width: thin;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  box-sizing: border-box;
 }
 
-body {
-  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  line-height: 1.4;
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 0 10px;
-  word-wrap: break-word;
-  color: var(--text-main);
-  background: var(--background-body);
+html {
+  font-size: 62.5%;
   text-rendering: optimizeLegibility;
 }
 
-button,
-input,
-textarea {
-  transition: background-color var(--animation-duration) linear,
-    border-color var(--animation-duration) linear, color var(--animation-duration) linear,
-    box-shadow var(--animation-duration) linear, transform var(--animation-duration) ease;
+body {
+  padding: 0;
+  margin: 0;
+  font-family: var(--font-family);
+  font-size: 1.6rem;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #6b7280;
 }

@@ -1,0 +1,38 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #111827;
+  line-height: 1;
+  font-weight: 800;
+  margin: 3.2rem 0;
+}
+
+h1 {
+  font-size: 7.2rem;
+}
+
+h2 {
+  font-size: 6.4rem;
+}
+
+h3 {
+  font-size: 4.8rem;
+}
+
+h4 {
+  font-size: 3.6rem;
+}
+
+h5 {
+  font-size: 2.4rem;
+}
+h6 {
+  color: #6b7280;
+  font-weight: 500;
+  font-size: 2.4rem;
+
+  // color: something darker/not highlighted
+}

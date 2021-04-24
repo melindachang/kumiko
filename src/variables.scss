@@ -1,21 +1,4 @@
 :root {
-  --background-body: #fff;
-  --background: #F9FAFB;
-  --background-alt: ##F3F4F6;
-  --selection: #EE3F86;
-  --text-main: #6B7280;
-  --text-bright: #000;
-  --text-muted: #D2D6DB;
-  --links: #EE3F86;
-  --focus: #EE3F86;
-  --border: #EFF0F2;
-  --code: #000;
-  --animation-duration: 0.1s;
-  --button-hover: #ddd;
-  --scrollbar-thumb: color-mod(var(--button-hover) lightness(-3%));
-  --scrollbar-thumb-hover: color-mod(var(--button-hover) lightness(-10%));
-  --form-placeholder: #949494;
-  --form-text: #000;
-  --variable: #39a33c;
-  --highlight: #ff0;
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 }
