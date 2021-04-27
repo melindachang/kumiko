@@ -1,0 +1,22 @@
+details {
+  padding: 0.6rem 1rem;
+  background: var(--tint-background);
+  border-radius: 4px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+details[open] {
+  padding-bottom: 0.75rem;
+}
+
+details[open] summary {
+  margin-bottom: 6px;
+}
+
+details[open] > *:last-child {
+  margin-bottom: 0;
+}
