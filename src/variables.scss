@@ -1,14 +1,15 @@
 :root {
   --background-body: #fff;
-  --background: #F9FAFB;
-  --background-alt: ##F3F4F6;
-  --selection: #EE3F86;
-  --text-main: #6B7280;
+  --background: #f9fafb;
+  --background-alt: ##f3f4f6;
+  --selection: #ee3f86;
+  --text-main: #5b708b;
+  --text-heading: #03060b;
   --text-bright: #000;
-  --text-muted: #D2D6DB;
-  --links: #EE3F86;
-  --focus: #EE3F86;
-  --border: #EFF0F2;
+  --text-muted: #d2d6db;
+  --links: #ee3f86;
+  --focus: #ee3f86;
+  --border: #ced6e3;
   --code: #000;
   --animation-duration: 0.1s;
   --button-hover: #ddd;
@@ -18,4 +19,14 @@
   --form-text: #000;
   --variable: #39a33c;
   --highlight: #ff0;
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+
+  --color-accent: #3880ff;
 }
+
+$breakpoint-xxl: 1400px;
+$breakpoint-xl: 1200px;
+$breakpoint-lg: 992px;
+$breakpoint-md: 768px;
+$breakpoint-sm: 576px;

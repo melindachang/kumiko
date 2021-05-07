@@ -1,0 +1,31 @@
+@import '../variables';
+
+@media only screen and (min-width: $breakpoint-xxl) {
+  section {
+    width: 1320px;
+  }
+}
+
+@media only screen and (min-width: $breakpoint-xl) and (max-width: calc(#{$breakpoint-xxl} - 1px)) {
+  section {
+    width: 1320px;
+  }
+}
+
+@media only screen and (min-width: $breakpoint-lg) and (max-width: calc(#{$breakpoint-xl} - 1px)) {
+  section {
+    width: 960px;
+  }
+}
+
+@media only screen and (min-width: $breakpoint-md) and (max-width: calc(#{$breakpoint-lg} - 1px)) {
+  section {
+    width: 720px;
+  }
+}
+
+@media only screen and (min-width: $breakpoint-sm) and (max-width: calc(#{$breakpoint-md} - 1px)) {
+  section {
+    width: 540px;
+  }
+}
