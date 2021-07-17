@@ -20,3 +20,7 @@ details[open] summary {
 details[open] > *:last-child {
   margin-bottom: 0;
 }
+
+hr {
+  color: var(--text-main);
+}

@@ -1,6 +1,6 @@
 :root {
   --background-body: #fff;
-  --background: #f9fafb;
+  --background: #f9fafc;
   --background-alt: #f3f4f6;
   --selection: #ee3f86;
   --text-main: #5b708b;
@@ -20,11 +20,13 @@
   --highlight: #ff0;
   --font-family: 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --font-family-mono: Consolas, monaco, 'Ubuntu Mono', 'Liberation Mono', 'Courier New', Courier,
+    monospace;
 
   --color-accent: #3880ff;
   --links: #0284c7;
   --links-nav: #35404e;
-  --tint-background: #efefef;
+  --tint-background: #f9fafc;
   --primary-background: black;
   --primary-background-alt: rgba(0, 0, 0, 0.8);
   --header-color: #111827;

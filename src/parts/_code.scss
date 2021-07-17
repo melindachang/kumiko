@@ -1,11 +1,14 @@
 code,
 samp,
-time {
+time,
+kbd {
+  font-family: var(--font-family-mono);
   color: var(--code);
   background: var(--background);
-  padding: 2.5px 5px;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--border);
   border-radius: 6px;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 pre > code {
@@ -22,9 +25,5 @@ var {
 }
 
 kbd {
-  background: var(--background);
-  border: 1px solid var(--border);
-  border-radius: 2px;
-  color: var(--text-main);
-  padding: 2px 4px 2px 4px;
+  border-bottom: .3rem solid var(--border);
 }
