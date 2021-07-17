@@ -1,7 +1,7 @@
 :root {
   --background-body: #fff;
   --background: #f9fafb;
-  --background-alt: ##f3f4f6;
+  --background-alt: #f3f4f6;
   --selection: #ee3f86;
   --text-main: #5b708b;
   --text-heading: #03060b;
@@ -10,7 +10,7 @@
   --links: #ee3f86;
   --focus: #ee3f86;
   --border: #ced6e3;
-  --code: #000;
+  --code: #03060b;
   --animation-duration: 0.1s;
   --button-hover: #ddd;
   --scrollbar-thumb: color-mod(var(--button-hover) lightness(-3%));
@@ -24,9 +24,7 @@
 
   --color-accent: #3880ff;
   --link-color: #0284c7;
-  --text-color: #6b7280;
   --tint-background: #efefef;
-  --primary-color: white;
   --primary-background: black;
   --primary-background-alt: rgba(0, 0, 0, 0.8);
   --header-color: #111827;
