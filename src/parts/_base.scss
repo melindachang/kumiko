@@ -79,9 +79,21 @@ nav {
 
     li {
       &:not(:last-child) {
-        margin-right: 1.2rem;
+        margin-right: 2.4rem;
       }
       display: inline-block;
+      a {
+        color: var(--links-nav);
+        letter-spacing: -0.01em;
+        font-size: 1.4rem;
+        font-weight: 600;
+
+        button {
+          border-radius: .8rem;
+          font-size: inherit;
+          padding: .75rem 1.2rem .85rem;
+        }
+      }
     }
   }
 }
