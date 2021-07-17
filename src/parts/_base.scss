@@ -64,26 +64,24 @@ section {
   width: 100%;
   margin: 0 auto;
 }
+nav {
+  &:first-child {
+  }
 
-header {
   display: flex;
   justify-content: space-between;
   padding: 1.8rem 2rem 0 2rem;
 
-  &:first-child {
-  }
-  nav {
-    ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 
-      li {
-        &:not(:last-child) {
-          margin-right: 1.2rem;
-        }
-        display: inline-block;
+    li {
+      &:not(:last-child) {
+        margin-right: 1.2rem;
       }
+      display: inline-block;
     }
   }
 }
