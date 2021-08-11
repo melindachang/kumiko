@@ -6,7 +6,6 @@
 //     box-shadow var(--animation-duration) linear, transform var(--animation-duration) ease;
 // }
 
-
 * {
   box-sizing: border-box;
 }
@@ -29,6 +28,7 @@ html {
 }
 
 body {
+  overflow: auto;
   padding: 0;
   margin: 0;
   font-family: var(--font-family);
@@ -37,7 +37,6 @@ body {
   word-wrap: break-word;
   color: var(--text-main);
   background: var(--background-body);
-  text-rendering: optimizeLegibility;
 }
 
 button {
@@ -60,7 +59,6 @@ button {
 }
 
 section {
-  width: 100%;
   margin: 0 auto;
 }
 

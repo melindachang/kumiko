@@ -1,24 +1,24 @@
 @media only screen and (min-width: $breakpoint-xxl) {
   section {
-    width: 1320px;
+    width: 1054px;
   }
 }
 
 @media only screen and (min-width: $breakpoint-xl) and (max-width: calc(#{$breakpoint-xxl} - 1px)) {
   section {
-    width: 1320px;
+    width: 1054px;
   }
 }
 
 @media only screen and (min-width: $breakpoint-lg) and (max-width: calc(#{$breakpoint-xl} - 1px)) {
   section {
-    width: 960px;
+    width: 970px;
   }
 }
 
 @media only screen and (min-width: $breakpoint-md) and (max-width: calc(#{$breakpoint-lg} - 1px)) {
   section {
-    width: 960px;
+    width: 750px;
   }
 }
 
@@ -27,3 +27,20 @@
     width: 540px;
   }
 }
+// @media (min-width: $breakpoint-sm) {
+//   section {
+//     width: 750px;
+//   }
+// }
+
+// @media (min-width: $breakpoint-md) {
+//   section {
+//     width: 970px;
+//   }
+// }
+
+// @media (min-width: $breakpoint-lg) {
+//   section {
+//     width: 1054px;
+//   }
+// }
