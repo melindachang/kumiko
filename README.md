@@ -8,8 +8,6 @@ Writing CSS is annoying, especially when you want to build something _fast_. Tai
 
 ![Code Size](https://badgen.net/badgesize/brotli/https/unpkg.com/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square&label=size) ![NPM Version](https://img.shields.io/npm/v/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square) ![License](https://badgen.net/github/license/melindachang/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square)
 
-> _👀 Psst... Need interactivity / JavaScript behavior? [**→ Check out Lucia**](https://github.com/aidenybai/lucia)!_
-
 [**→ Check out the Kumiko website**](https://kumikocss.netlify.app/)
 
 ## Installing Kumiko

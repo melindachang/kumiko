@@ -14,6 +14,7 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 - [ ] Input styling (e.g. types `text`, `radio`, `checkbox`, etc)
 - [ ] Textarea styling
 - [ ] Table styling
+- [ ] Consistent design styling for pseudo-classes
 
 **Custom Features:**
 - [X] Navbar styling
