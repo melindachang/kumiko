@@ -3,11 +3,11 @@
 Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 
 **Core Features:**
-- [ ] Text styling (e.g. `h1-h6`, `p`)
-- [ ] Link styling
+- [X] Text styling (e.g. `h1-h6`, `p`)
+- [X] Link styling
 - [ ] Break styling (e.g. `hr`, `br`)
-- [ ] List styling (e.g. `ul`, `ol`)
-- [ ] Button styling (e.g. `ul`, `ol`)
+- [X] List styling (e.g. `ul`, `ol`)
+- [X] Button styling
 - [ ] Inline code & codeblock styling (e.g. `pre`, `code`, `kbd`)
 - [ ] Details styling
 - [ ] Blockquote styling
@@ -16,6 +16,7 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 - [ ] Table styling
 
 **Custom Features:**
-- [ ] Navbar styling
+- [X] Navbar styling
 - [ ] Header styling
 - [ ] Banner styling
+- [ ] Footer styling
