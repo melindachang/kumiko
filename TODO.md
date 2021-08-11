@@ -20,3 +20,6 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 - [ ] Header styling
 - [ ] Banner styling
 - [ ] Footer styling
+
+**Misc:**
+- [ ] Fix variable name scheme
