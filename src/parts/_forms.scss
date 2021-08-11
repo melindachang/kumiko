@@ -8,15 +8,15 @@ form {
       border: none;
       padding: 0;
       flex: 1 1 0;
-      input {
-        border-radius: 4px;
+      input,
+      select {
+        border-radius: 6px;
         width: 100%;
         margin: 0.5rem 0;
         border: 1px solid var(--border);
         background: rgba(255, 255, 255, 0.2);
         color: #333;
-        height: 5.6rem;
-        padding: 0 1.4rem;
+        padding: 1.6rem;
         font-family: var(--font-family);
         font-weight: 500;
         letter-spacing: -0.02em;
@@ -33,12 +33,37 @@ form {
         }
       }
 
+      div {
+        position: relative;
+
+        select {
+          appearance: none;
+          -webkit-appearance: none;
+          -moz-appearance: none;
+          position: relative;
+        }
+
+        &::after {
+          width: 0;
+          height: 0;
+          border-style: solid;
+          border-width: 5px 5px 0 5px;
+          border-color: var(--form-placeholder) transparent transparent transparent;
+          position: absolute;
+          right: 1.6rem;
+          content: '';
+          transform: translateY(-50%);
+          top: 50%;
+          pointer-events: none;
+        }
+      }
+
       label {
-        color: #333;
+        // color: #333;
         display: block;
-        text-transform: uppercase;
-        font-size: 1.2rem;
-        font-weight: 600;
+        // text-transform: uppercase;
+        font-size: 1.4rem;
+        // font-weight: 600;
       }
     }
   }
