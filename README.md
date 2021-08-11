@@ -4,7 +4,7 @@
 
 ### Beautiful no-class CSS library.
 
-Writing CSS is annoying, especially when you want to build something _fast_. Tailwind tries to solve this by giving you classes, but we want to take it further. Kumiko aims to provide you prebuilt styles and a bit of custom elements, so you can get your project up and running as fast as possible.
+Writing CSS is annoying, especially when you want to build something _fast_. Tailwind tries to solve this by giving you utility classes, but we want to take it further. Kumiko aims to provide you with a solid foundation of prebuilt styles, so you can get your project up and running as fast as possible.
 
 ![Code Size](https://badgen.net/badgesize/brotli/https/unpkg.com/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square&label=size) ![NPM Version](https://img.shields.io/npm/v/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square) ![License](https://badgen.net/github/license/melindachang/kumiko?color=EE3F86&labelColor=1D1E32&style=flat-square)
 
