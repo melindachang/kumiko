@@ -10,7 +10,7 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 - [X] Button styling
 - [X] Inline code & codeblock styling (e.g. `pre`, `code`, `kbd`)
 - [ ] Details styling
-- [ ] Blockquote styling
+- [X] Blockquote styling
 - [ ] Input styling (e.g. types `text`, `radio`, `checkbox`, etc)
 - [ ] Textarea styling
 - [ ] Table styling
