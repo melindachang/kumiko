@@ -9,7 +9,7 @@ form {
       padding: 0;
       flex: 1 1 0;
 
-      input,
+      input:not([type='checkbox']),
       select,
       textarea {
         border-radius: 6px;
@@ -32,6 +32,16 @@ form {
         &:focus {
           outline: none;
           border: 1px solid var(--color-accent);
+        }
+      }
+
+      input {
+        &[type="checkbox"] {
+          margin: 0;
+          
+          &+label {
+            line-height: 1;
+          }
         }
       }
 
@@ -75,7 +85,7 @@ form {
 
       label {
         // color: #333;
-        display: block;
+        display: inline-block;
         // text-transform: uppercase;
         font-size: 1.4rem;
         // font-weight: 600;
