@@ -17,9 +17,12 @@
   --border: #ced6e3;
   --code: #03060b;
   --animation-duration: 0.1s;
-  --button-hover: #ddd;
-  --scrollbar-thumb: color-mod(var(--button-hover) lightness(-3%));
+  --button-hover: rgb(192, 192, 192);
+
+  --scrollbar-thumb: var(--button-hover);
   --scrollbar-thumb-hover: color-mod(var(--button-hover) lightness(-10%));
+  --scrollbar-width: 4px;
+
   --form-placeholder: #949494;
   --form-text: #000;
   --variable: #39a33c;

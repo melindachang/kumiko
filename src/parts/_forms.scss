@@ -8,8 +8,10 @@ form {
       border: none;
       padding: 0;
       flex: 1 1 0;
+
       input,
-      select {
+      select,
+      textarea {
         border-radius: 6px;
         width: 100%;
         margin: 0.5rem 0;
@@ -33,6 +35,11 @@ form {
         }
       }
 
+      textarea {
+        min-width: 100%;
+        min-height: 8em;
+      }
+
       div {
         position: relative;
 
@@ -41,6 +48,14 @@ form {
           -webkit-appearance: none;
           -moz-appearance: none;
           position: relative;
+
+          &:required:invalid {
+            color: var(--form-placeholder);
+          }
+
+          option {
+            color: black;
+          }
         }
 
         &::after {

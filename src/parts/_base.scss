@@ -1,17 +1,9 @@
-// button,
-// input,
-// textarea {
-//   transition: background-color var(--animation-duration) linear,
-//     border-color var(--animation-duration) linear, color var(--animation-duration) linear,
-//     box-shadow var(--animation-duration) linear, transform var(--animation-duration) ease;
-// }
-
 * {
   box-sizing: border-box;
 }
 
 ::-webkit-scrollbar {
-  width: 3px;
+  width: var(--scrollbar-width);
 }
 
 ::-webkit-scrollbar-thumb {
