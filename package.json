@@ -4,11 +4,11 @@
   "description": "Beautiful no-class CSS library",
   "browser": "dist/kumiko.min.css",
   "scripts": {
-    "dev": "sh scripts/dev.sh",
-    "build": "sh scripts/build.sh",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
     "cleanup": "prettier --write src --parser scss",
-    "clean": "sh scripts/clean.sh",
-    "release": "sh scripts/release.sh"
+    "clean": "sh scripts/clean.sh"
   },
   "repository": {
     "type": "git",
@@ -34,10 +34,9 @@
     "node": ">=6.4.0"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "2.0.0-beta.2",
     "del-cli": "^3.0.1",
-    "parcel": "^2.0.0-beta.2",
     "prettier": "^2.1.2",
-    "sass": "^1.32.11"
+    "sass": "^1.43.4",
+    "vite": "^2.6.13"
   }
 }

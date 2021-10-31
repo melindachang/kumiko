@@ -1,1 +1,1 @@
-rm -rf dist .parcel-cache
+rm -rf dist

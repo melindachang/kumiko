@@ -36,10 +36,10 @@ form {
       }
 
       input {
-        &[type="checkbox"] {
+        &[type='checkbox'] {
           margin: 0;
-          
-          &+label {
+
+          & + label {
             line-height: 1;
           }
         }

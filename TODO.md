@@ -16,7 +16,7 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 - [ ] Textarea styling
 - [ ] Table styling
 - [x] Responsive breakpoints
-- [ ] Consistent design styling for pseudo-classes
+- [ ] Consistent design language for pseudo-classes
 
 **Custom Features:**
 
@@ -27,4 +27,4 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 
 **Misc:**
 
-- [ ] Fix variable name scheme
+- [ ] Standardize variable name scheme
