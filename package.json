@@ -4,9 +4,8 @@
   "description": "Beautiful no-class CSS library",
   "scripts": {
     "dev": "vite",
-    "build": "sh scripts/build.sh",
-    "cleanup": "prettier --write src --parser scss",
-    "release": "sh scripts/release.sh"
+    "build": "rm -rf dist/ && parcel build src/kumiko.scss --no-source-maps",
+    "cleanup": "prettier --write src --parser scss"
   },
   "repository": {
     "type": "git",
@@ -33,7 +32,6 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
-    "del-cli": "^3.0.1",
     "parcel": "^2.0.1",
     "prettier": "^2.1.2",
     "sass": "^1.43.4",
