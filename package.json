@@ -2,6 +2,12 @@
   "name": "kumiko",
   "version": "0.0.1",
   "description": "Beautiful no-class CSS library",
+  "browser": "dist/kumiko.css",
+  "main": "dist/kumiko.css",
+  "targets": {
+    "main": false,
+    "browser": false
+  },
   "scripts": {
     "dev": "vite",
     "build": "rm -rf dist/ && parcel build src/kumiko.scss --no-source-maps",
