@@ -1,14 +1,17 @@
 {
   "name": "kumiko",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Beautiful no-class CSS library",
-  "browser": "dist/kumiko.min.css",
+  "browser": "dist/kumiko.css",
+  "main": "dist/kumiko.css",
+  "targets": {
+    "main": false,
+    "browser": false
+  },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview",
-    "cleanup": "prettier --write src --parser scss",
-    "clean": "sh scripts/clean.sh"
+    "build": "rm -rf dist/ && parcel build src/kumiko.scss --no-source-maps",
+    "cleanup": "prettier --write src --parser scss"
   },
   "repository": {
     "type": "git",
@@ -34,7 +37,8 @@
     "node": ">=6.4.0"
   },
   "devDependencies": {
-    "del-cli": "^3.0.1",
+    "@parcel/transformer-sass": "^2.0.1",
+    "parcel": "^2.0.1",
     "prettier": "^2.1.2",
     "sass": "^1.43.4",
     "vite": "^2.6.13"

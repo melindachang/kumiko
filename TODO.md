@@ -1,9 +1,10 @@
 ## TODO
 
-Need to handle modifers: `disabled`, `hover`, `active`, `focus`
+**NOTE**: Development should be done in `/index.html` (if this doesn't exist, create it)
 
 **Core Features:**
 
+- [ ] Handle modifers: `disabled`, `hover`, `active`, `focus`
 - [x] Text styling (e.g. `h1-h6`, `p`)
 - [x] Link styling
 - [x] Break styling (e.g. `hr`, `br`)
@@ -12,8 +13,8 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 - [x] Inline code & codeblock styling (e.g. `pre`, `code`, `kbd`)
 - [x] Details styling
 - [x] Blockquote styling
-- [X] Input styling (e.g. types `text`, `radio`, `checkbox`, etc)
-- [X] Textarea styling
+- [x] Input styling (e.g. types `text`, `radio`, `checkbox`, etc)
+- [x] Textarea styling
 - [ ] Table styling
 - [x] Responsive breakpoints
 - [ ] Consistent design language for pseudo-classes
