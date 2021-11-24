@@ -1,6 +1,6 @@
 {
   "name": "kumiko",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Beautiful no-class CSS library",
   "scripts": {
     "dev": "vite",
