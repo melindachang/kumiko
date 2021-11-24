@@ -3,6 +3,7 @@ code,
 samp,
 time,
 kbd {
+  white-space: pre-wrap;
   font-family: var(--font-family-mono);
   color: var(--code);
   background: var(--background);
