@@ -2,6 +2,8 @@
 
 Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 
+**NOTE**: Development should be done under a `dev/` folder in `dev/index.html` (if this doesn't exist, create it)
+
 **Core Features:**
 
 - [x] Text styling (e.g. `h1-h6`, `p`)
