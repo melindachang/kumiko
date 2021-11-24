@@ -14,8 +14,8 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 - [x] Inline code & codeblock styling (e.g. `pre`, `code`, `kbd`)
 - [x] Details styling
 - [x] Blockquote styling
-- [ ] Input styling (e.g. types `text`, `radio`, `checkbox`, etc)
-- [ ] Textarea styling
+- [X] Input styling (e.g. types `text`, `radio`, `checkbox`, etc)
+- [X] Textarea styling
 - [ ] Table styling
 - [x] Responsive breakpoints
 - [ ] Consistent design language for pseudo-classes
