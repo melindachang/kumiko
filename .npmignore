@@ -1,33 +1,22 @@
-# NPM/Yarn
 node_modules/
 package-lock.json
-yarn.lock
-yarn-error.log
-
-# Testing
+pnpm-lock.yaml
 *.html
-
-# Build Config
+*.tgz
 .gitignore
-
-# Raw source
+.gitattributes
 src/
-
-# Linting
+dev/
 .prettierrc
 .prettierignore
-
-# Editor Config
 .vscode/
 .idea/
 settings.json
 .DS_Store
-
-# Misc
 .github/
 scripts/
 docs/
 .sassrc
-scratch.md
-./
-web/
+TODO.md
+.parcel-cache/
+vite.config.js

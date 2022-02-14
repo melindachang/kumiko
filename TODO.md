@@ -1,9 +1,10 @@
 ## TODO
 
-Need to handle modifers: `disabled`, `hover`, `active`, `focus`
+**NOTE**: Development should be done in `/index.html` (if this doesn't exist, create it)
 
 **Core Features:**
 
+- [ ] Handle modifers: `disabled`, `hover`, `active`, `focus`
 - [x] Text styling (e.g. `h1-h6`, `p`)
 - [x] Link styling
 - [x] Break styling (e.g. `hr`, `br`)

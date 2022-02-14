@@ -1,19 +1,11 @@
-# NPM/Yarn
 node_modules/
 package-lock.json
 yarn-error.log
-
-# Tests
 /*.html
 /index.html
-
-# Build source
 dist/
-
-# Editor Config
+dev/
 .idea/
 .DS_Store
-
-# Misc
-scratch.md
 .parcel-cache/
+.tgz
