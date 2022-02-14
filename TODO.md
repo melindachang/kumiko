@@ -13,6 +13,7 @@ Need to handle modifers: `disabled`, `hover`, `active`, `focus`
 - [x] Details styling
 - [x] Blockquote styling
 - [ ] Input styling (e.g. types `text`, `radio`, `checkbox`, etc)
+- [ ] Make forms less hacky
 - [ ] Textarea styling
 - [ ] Table styling
 - [x] Responsive breakpoints
