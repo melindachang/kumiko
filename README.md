@@ -38,9 +38,9 @@ We expect all Kumiko contributors to abide by the terms of our [Code of Conduct]
 
 ## Acknowledgments
 
-Kumiko is [MIT-licensed](LICENSE) open-source software by [Melinda Chang](https://github.com/melindachang), [Aiden Bai](https://github.com/melindachang) [et al.](https://github.com/melindachang/kumiko/graphs/contributors)
+Kumiko is [MIT-licensed](LICENSE) open-source software by [Melinda Chang](https://github.com/melindachang), [Aiden Bai](https://github.com/aidenybai) [et al.](https://github.com/melindachang/kumiko/graphs/contributors)
 
-Kumiko takes heavy inspiration from [TailwindCSS's styles](https://tailwindcss.com/), and believes in the core philosophies and values behind [Sakura](https://github.com/oxalorg/sakura), [NewCSS](https://newcss.net/), and [WaterCSS](https://watercss.kognise.dev/). Feel free to check them out if you interested in an alternative library to use.
+Kumiko takes inspiration from [TailwindCSS's styles](https://tailwindcss.com/), and believes in the core philosophies and values behind [Sakura](https://github.com/oxalorg/sakura), [NewCSS](https://newcss.net/), and [WaterCSS](https://watercss.kognise.dev/). Feel free to check them out if you interested in an alternative library to use.
 
 _Kumiko comes from the Japanese name 久美子, meaning "forever, beauty, child."_
 
